@@ -14,3 +14,5 @@ This project was built using a **no-code Agentic AI platform**, with a focus on:
 
 🔗 Live Agent:
 https://agent.ai/profile/pt5pkd2mnav9v292
+## 📸 Agent Preview
+![Agent Interface](agent-ui.png)
